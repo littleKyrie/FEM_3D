@@ -15,7 +15,7 @@ we use [libigl](https://github.com/libigl/libigl) to render the scene and [oneTB
 
 ## Results
 500 vertices
-
+[bunny_gravity](results/bunny_gra.mov)
 
 3330 vertices
 
