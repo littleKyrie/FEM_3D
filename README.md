@@ -16,8 +16,6 @@ we use [libigl](https://github.com/libigl/libigl) to render the scene, [oneTBB](
 ## Results
 <p><strong>&bull;</strong> gravity test </p>
 
-500 vertices
-
 ![bunny_gravity](results/bunny_gra.gif)
 
 <p><strong>&bull;</strong> interaction test </p>
