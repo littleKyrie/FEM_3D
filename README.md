@@ -14,6 +14,8 @@ we use [libigl](https://github.com/libigl/libigl) to render the scene and [oneTB
 <p><strong>&bull;</strong> large-scale deformation </p>
 
 ## Results
+<p><strong>&bull;</strong> gravity test </p>
+
 500 vertices
 
 ![bunny_gravity](results/bunny_gra.gif)
