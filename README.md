@@ -2,7 +2,7 @@
 
 ## Introduction
 a finite-element-method simulator.
-we use [libigl](https://github.com/libigl/libigl) to render the scene and [oneTBB](https://github.com/oneapi-src/oneTBB) for higher performance.
+we use [libigl](https://github.com/libigl/libigl) to render the scene, [oneTBB](https://github.com/oneapi-src/oneTBB) for higher performance and [Eigen](https://eigen.tuxfamily.org/dox/index.html) for linear algebra operations.
 
 ## Features
 <p><strong>&bull;</strong> backward euler scheme with Newton Optimizer </p>
