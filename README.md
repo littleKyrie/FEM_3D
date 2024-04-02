@@ -22,7 +22,7 @@ we use [libigl](https://github.com/libigl/libigl) to render the scene and [oneTB
 
 <p><strong>&bull;</strong> interaction test </p>
 
-![armadillo_drag](results/arma_drag.gif)
+![armadillo_drag](results/drag_arma.gif)
 
 ## Future Work
 <p><strong>&bull;</strong> continue to improve the performance of the code </p>
